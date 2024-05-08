@@ -14,7 +14,7 @@ You would start by installing their free IDE, MounRiver Studio Community. Once i
 
 - ## "What should I expect to get when I'm done?"
 
-### You should expect to get output like the following on whatevet serial port your debugger/programmer puts data too.
+### You should expect to get output like the following on whatever serial port your debugger/programmer puts data too.
 
 ![libhydrogen CH32V003-2](https://github.com/CharlesScoville/CH32V003F4P6-libhydrogen-PoC/assets/25935564/b0f7b255-5877-4219-bc1f-b72b5aa7712b)
 
