@@ -20,6 +20,6 @@ You would start by installing their free IDE, MounRiver Studio Community. Once i
 
 - ## "What's the license? I thought libhydrogen was under the ISC License?"
 
-### I reserve the right to every line of code I have written for this repo. Being independent, libhydrogen falls under their own license.
+### I reserve the right to every line of code I have written for this repo. Being independent, libhydrogen falls under their own license. Same goes for WCH's code.
 
 That said, my retention of copyright for my work is strictly a countermeasure against bad actors. If you believe yourself to be in good faith, then you should not need to worry about this, as I will reciprocate good faith with good faith. If you have bad intentions, you should expect bad results. If you are concerned about this, contacting me to inform me of your intentions ahead of time is the safest bet.
